@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Aplikasi Android Baca Meter PDAM"
+date:   2017-05-19 22:32:31 +0900
+categories: jekyll update
+permalink: /aplikasi-android-baca-meter-pdam/
+excerpt_separator: <!--more-->
+---
+Aplikasi berbasis Android yang baru di-rilis pada awal Juli 2017 lalu dikembangkan berdasarkan kebutuhan pembacaan dan pencatatan meter air pelanggan pada salah satu Perusahaan Daerah Air Minum di Wilayah Indonesia Timur.
+
