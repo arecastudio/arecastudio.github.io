@@ -18,7 +18,7 @@ email: ondiisrail@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog berbasis Jekyll yang manampung bebrapa project yang pernah dan sedang digarap saat ini. Bukan sekedar mempublikasikan karya, nampun juga sebagai pengingat ketika fikiran tak mampu lagi mengingat beberapa hal penting yang perlu untuk dicatat.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://arecastudio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: railondi
 github_username:  arecastudio
 show_downloads: false
