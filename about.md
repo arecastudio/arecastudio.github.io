@@ -3,13 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+<h3>Siapa Saya</h3>
+Saat ini [saya](https://plus.google.com/+RailOndi) sedang tertarik mendalami bahasa pemrograman Java berbasis Android. Manguasai pemrograman PHP, MySQL, Java Script serta sangat mencintai Linux sebagai Sistem Operasi dalam penggunaan sehari-hari.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<h3>Tujuan</h3>
+Blog [pribadi](https://arecastudio.github.io/) berbasis {% include icon-github.html username="jekyll" %} yang manampung bebrapa project yang pernah dan sedang digarap saat ini. Bukan sekedar untuk mempublikasikan karya, nampun sebagai pengingat karena tidak semua script yang pernah digarap dapat tersimpan di fikiran.
