@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<h3>Siapa Saya</h3>
+<h3>Tentang Saya</h3>
 Saat ini [saya](https://plus.google.com/+RailOndi) sedang tertarik mendalami bahasa pemrograman Java berbasis Android. Manguasai pemrograman PHP, MySQL, Java Script serta sangat mencintai Linux sebagai Sistem Operasi dalam penggunaan sehari-hari.
 
 <h3>Tujuan</h3>
