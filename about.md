@@ -7,4 +7,4 @@ permalink: /about/
 Saat ini [saya](https://plus.google.com/+RailOndi) sedang tertarik mendalami bahasa pemrograman Java berbasis Android. Manguasai pemrograman PHP, MySQL, Java Script serta sangat mencintai Linux sebagai Sistem Operasi dalam penggunaan sehari-hari.
 
 <h3>Tujuan</h3>
-Blog [pribadi](https://arecastudio.github.io/) berbasis {% include icon-github.html username="jekyll" %} yang manampung bebrapa project yang pernah dan sedang digarap saat ini. Bukan sekedar untuk mempublikasikan karya, nampun sebagai pengingat karena tidak semua script yang pernah digarap dapat tersimpan di fikiran.
+Blog [pribadi](https://arecastudio.github.io/) berbasis {% include icon-github.html username="jekyll" %} yang manampung bebrapa project yang pernah dan sedang digarap saat ini. Bukan sekedar mempublikasikan karya, nampun juga sebagai pengingat ketika fikiran tak mampu lagi mengingat beberapa hal penting yang perlu untuk dicatat.
