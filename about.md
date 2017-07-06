@@ -11,7 +11,7 @@ Saya menerima job pengerjaan project aplikasi berbasis Desktop, Website, serta A
 
 <h2>Projects</h2>
 Beberapa project yang baru-baru ini saya kerjakan, baik berupa project pribadi maupun permintaan instansi dan person, diantaranya dalah sebagai berikut:
-<table style="font-size: 12px;border: 1px;">
+<table style="border: 1px;width: 100%">
 	<thead>
 		<tr>
 			<th>#</th>
