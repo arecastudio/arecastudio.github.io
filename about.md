@@ -76,3 +76,4 @@ Beberapa project yang baru-baru ini saya kerjakan, baik berupa project pribadi m
 Untuk menghubungi saya dapat melalaui :
 + email [ondiisrail@gmail.com](mailto:ondiisrail@gmail.com)
 + WhatsApp +6285244444830
+Jayapura, Papua.
