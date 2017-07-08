@@ -80,3 +80,5 @@ Untuk menghubungi saya dapat melalaui :
 </ul>
 
 Jayapura, Papua.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63774.086890835366!2d140.50526713177013!3d-2.5458251270331727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x686cf04cb17d521f%3A0xb605002a0eaea588!2sSentani+Kota%2C+Sentani%2C+Jayapura%2C+Papua!5e0!3m2!1sen!2sid!4v1499511082619" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
