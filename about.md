@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Rail Ondi]({{ site.url }}/assets/images/rail-ondi.jpg){:height="100px" width="100px"}{: style="float:left;margin-right:10px;"}
+
 Saat ini [saya](https://plus.google.com/+RailOndi) sedang tertarik mendalami bahasa pemrograman Java berbasis Android. Manguasai pemrograman PHP, MySQL, Java Script serta sangat mencintai [Linux](https://www.debian.org/) sebagai Sistem Operasi dalam penggunaan sehari-hari.
 
 [Areca Studio](https://arecastudio.github.io/) adalah weblog berbasis {% include icon-github.html username="arecastudio" %} yang manampung informasi kegiatan dan beberapa project yang pernah dan sedang digarap saat ini.
