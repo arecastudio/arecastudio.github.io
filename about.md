@@ -7,7 +7,7 @@ Saat ini [saya](https://plus.google.com/+RailOndi) sedang tertarik mendalami bah
 
 [Areca Studio](https://arecastudio.github.io/) adalah weblog berbasis {% include icon-github.html username="arecastudio" %} yang manampung informasi kegiatan dan beberapa project yang pernah dan sedang digarap saat ini.
 
-Saya menerima job pengerjaan project aplikasi berbasis Desktop, Website, serta Android seperti aplikasi Kasir Toko, Website Kantor, Kasir Resto serta pengerjaan skripsi berbasis teknologi database programming.
+> Saya menerima job pengerjaan project aplikasi berbasis Desktop, Website, serta Android seperti aplikasi Kasir Toko, Website Kantor, Kasir Resto serta pengerjaan skripsi berbasis teknologi database programming.
 
 ## Projects
 Beberapa project yang baru-baru ini saya kerjakan, baik berupa project pribadi maupun permintaan instansi dan person, diantaranya dalah sebagai berikut:
