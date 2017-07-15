@@ -9,7 +9,7 @@ Saat ini [saya](https://plus.google.com/+RailOndi) sedang tertarik mendalami bah
 
 Saya menerima job pengerjaan project aplikasi berbasis Desktop, Website, serta Android seperti aplikasi Kasir Toko, Website Kantor, Kasir Resto serta pengerjaan skripsi berbasis teknologi database programming.
 
-<h2>Projects</h2>
+## Projects
 Beberapa project yang baru-baru ini saya kerjakan, baik berupa project pribadi maupun permintaan instansi dan person, diantaranya dalah sebagai berikut:
 <table style="border: 1px;width: 100%">
 	<thead>
@@ -72,12 +72,10 @@ Beberapa project yang baru-baru ini saya kerjakan, baik berupa project pribadi m
 	</tbody>
 </table>
 
-<h2>Kontak</h2>
+# Kontak
 Untuk menghubungi saya dapat melalaui :
-<ul>
-	<li>Email : ondiisrail@gmail.com</li>
-	<li>WhatsApp : 0852 4444 4830</li>
-</ul>
+- Email : [ondiisrail@gmail.com](mailto:ondiisrail@gmail.com)
+- WhatsApp : 0852 4444 4830
 
 Jayapura, Papua.
 
