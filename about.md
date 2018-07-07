@@ -27,13 +27,13 @@ Beberapa project yang baru-baru ini saya kerjakan, baik berupa project pribadi m
 			<td>1</td>
 			<td>Aplikasi Billing System PDAM Jayapura</td>
 			<td>2014</td>
-			<td></td>
+			<td>Offline</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Aplikasi Pembacaan Meter PDAM Jayapura berbasis Android</td>
 			<td>2014</td>
-			<td></td>
+			<td>Offline</td>
 		</tr>
 		<tr>
 			<td>3</td>
@@ -45,31 +45,31 @@ Beberapa project yang baru-baru ini saya kerjakan, baik berupa project pribadi m
 			<td>4</td>
 			<td>Aplikasi Cek Tagihan PDAM Jayapura berbasis Android</td>
 			<td>2015</td>
-			<td></td>
+			<td>https://goo.gl/7zsVti</td>
 		</tr>
 		<tr>
 			<td>5</td>
 			<td>Aplikasi Kasir Kristo Resto yang mendukung sistem pemesanan melalu Android</td>
 			<td>2016</td>
-			<td></td>
+			<td>Offline</td>
 		</tr>
 		<tr>
 			<td>6</td>
 			<td>Aplikasi Informasi Lowongan Pekerjaan berbasis Android</td>
 			<td>2016</td>
-			<td></td>
+			<td>https://goo.gl/DQyFJo</td>
 		</tr>
 		<tr>
 			<td>7</td>
 			<td>Website resmi PDAM Jayapura</td>
 			<td>2017</td>
-			<td></td>
+			<td>http://pdamjayapura.com</td>
 		</tr>
 		<tr>
 			<td>8</td>
 			<td>Pengembangan Aplikasi Pembacaan Meter PDAM Jayapura berbasis Android</td>
 			<td>2017</td>
-			<td></td>
+			<td>https://goo.gl/bv2DUC</td>
 		</tr>
 	</tbody>
 </table>
