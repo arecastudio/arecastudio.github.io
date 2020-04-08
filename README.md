@@ -9,6 +9,6 @@ Saat ini [saya](https://plus.google.com/+RailOndi) sedang tertarik mendalami bah
 ## Kontak
 Untuk menghubungi saya dapat melalaui :
 - Email : [ondiisrail@gmail.com](mailto:ondiisrail@gmail.com)
-- WhatsApp : 0852 4444 4830
+- WhatsApp : 0811 48 1219
 
 Jayapura, Papua.
